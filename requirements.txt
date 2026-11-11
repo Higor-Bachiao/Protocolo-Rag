@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+pypdf>=4.0
+matplotlib>=3.8
+python-dotenv>=1.0
+sentence-transformers>=3.0
+openai>=1.40
+anthropic>=0.40
+pytest>=8.0

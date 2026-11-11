@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "pergunta": "PREENCHER: pergunta factual sobre o documento 1 (ex.: critério de diagnóstico de um PCDT)",
+    "gabarito": "PREENCHER: resposta tirada do documento, com o número da página",
+    "doc_id": "PREENCHER: nome do arquivo sem .pdf",
+    "evidencia": "PREENCHER: trecho curto e literal do documento que comprova a resposta"
+  },
+  {
+    "id": 2,
+    "pergunta": "PREENCHER: pergunta sobre dose ou posologia descrita em um PCDT",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 3,
+    "pergunta": "PREENCHER: pergunta sobre o Calendário Nacional de Vacinação (idade ou intervalo)",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 4,
+    "pergunta": "PREENCHER: pergunta sobre critério de inclusão ou exclusão de um protocolo",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 5,
+    "pergunta": "PREENCHER: pergunta sobre notificação compulsória (Guia de Vigilância em Saúde)",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 6,
+    "pergunta": "PREENCHER: pergunta cuja resposta está numa TABELA de algum documento (testa extração de PDF)",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 7,
+    "pergunta": "PREENCHER: pergunta com termo diferente do usado no documento (sinônimo; testa a busca densa)",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 8,
+    "pergunta": "PREENCHER: pergunta sobre monitoramento ou acompanhamento do paciente em um PCDT",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 9,
+    "pergunta": "PREENCHER: pergunta que exige juntar informação de dois trechos ou dois documentos",
+    "gabarito": "PREENCHER",
+    "doc_id": "PREENCHER: documento principal",
+    "evidencia": "PREENCHER"
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é o piso salarial nacional do agente comunitário de saúde em 2026?",
+    "gabarito": "A informação não está nos documentos do corpus; o sistema deve se abster.",
+    "doc_id": null,
+    "evidencia": null
+  }
+]
